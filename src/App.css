@@ -163,6 +163,10 @@
     border-radius: 4px;
    
 }
+.emoji:active{
+    color: black;
+    background-color: black;
+}
 .sorting{
     display: flex;
     align-items: center;
